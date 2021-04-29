@@ -1,1 +1,1 @@
-# crumpled_ball2
+# CP-2
